@@ -1,0 +1,9 @@
+{
+  "name": "sedentary",
+  "description": "converts natural language text manipulation instructions to sed commands",
+  "author": "Noah Tye <noah@tyes.us>",
+  "dependencies": {
+    "cheerio": "0.17.x"
+  }
+}
+
