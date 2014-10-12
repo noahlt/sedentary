@@ -11,7 +11,7 @@ from `<code>` blocks present on the page.
 
 To install dependencies, run `npm install` inside this source directory.
 
-Run the script from this source directory with `node sedentary.js sed remove
+Run the script from this source directory with `node sedentary.js remove
 blank lines`.
 
 ### Caveats
